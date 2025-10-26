@@ -12,7 +12,7 @@
 
 This is a fork of [Prism Launcher](https://prismlauncher.org/), an open-source Minecraft launcher, modified to **bypass the Microsoft account requirement** for playing Minecraft.
 
-The goal of this fork is to allow users to launch and play Minecraft without needing to log in with a Microsoft account, restoring compatibility with legacy authentication methods.
+The goal of this fork is to allow users to launch and play Minecraft without needing to log in with a Microsoft account, restoring compatibility with offline accounts.
 
 ## Features
 
